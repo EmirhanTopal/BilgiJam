@@ -17,20 +17,9 @@ public class HealthController : MonoBehaviour
     {
         healthBar.value = currentHealth;
     }
+    
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("alyuvar"))
-        {
-            ChangeHealth(10);
-        }
-        else if (collision.gameObject.CompareTag("corona"))
-        {
-            ChangeHealth(-10);
-        }
-    }
-
-    void ChangeHealth(int amount)
+    public void ChangeHealth(int amount)
     {
         currentHealth += amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
