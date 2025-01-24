@@ -5,6 +5,7 @@ using UnityEngine;
 public class TabletController : MonoBehaviour
 {
     [SerializeField] private int DirectionSpeed;
+    [SerializeField] private int RotateSpeed;
     [SerializeField] private int speed;
     void Update()
     {
@@ -18,17 +19,19 @@ public class TabletController : MonoBehaviour
         transform.Translate(Vector3.forward * Time.deltaTime * DirectionSpeed);
         if (Input.GetKey(KeyCode.W))
         {
-            transform.Translate(Vector3.up * vertical * Time.deltaTime * speed);            
+            transform.Translate(Vector3.up * vertical * Time.deltaTime * speed);        
         }
-        else if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.A))
         {
-            transform.Translate(Vector3.left * Time.deltaTime * speed * horizontal * -1); 
+            transform.Translate(Vector3.left * Time.deltaTime * speed * horizontal * -1);
+            transform.Rotate(transform.rotation.x, transform.rotation.y,  RotateSpeed * Time.deltaTime);
         }
-        else if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.D))
         {
-            transform.Translate(Vector3.right * Time.deltaTime * speed * horizontal); 
+            transform.Translate(Vector3.right * Time.deltaTime * speed * horizontal);
+            transform.Rotate(transform.rotation.x, transform.rotation.y,  RotateSpeed * Time.deltaTime * -1);
         }
-        else if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.S))
         {
             transform.Translate(Vector3.down * vertical  * Time.deltaTime * speed * -1); 
         }
