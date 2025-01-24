@@ -7,6 +7,8 @@ public class TabletController : MonoBehaviour
     [SerializeField] private int DirectionSpeed;
     [SerializeField] private int RotateSpeed;
     [SerializeField] private int speed;
+
+    [SerializeField] private HealthController HealthController;
     void Update()
     {
         Controller();   
@@ -34,6 +36,18 @@ public class TabletController : MonoBehaviour
         if (Input.GetKey(KeyCode.S))
         {
             transform.Translate(Vector3.down * vertical  * Time.deltaTime * speed * -1); 
+        }
+    }
+    
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("alyuvar"))
+        {
+            HealthController.ChangeHealth(10);
+        }
+        else if (collision.gameObject.CompareTag("corona"))
+        {
+            HealthController.ChangeHealth(-10);
         }
     }
     
