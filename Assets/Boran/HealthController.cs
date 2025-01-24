@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class HealthController : MonoBehaviour
 {
-    public Slider healthBar; // Health bar UI
+    public Slider healthBar; 
     public int maxHealth = 100;
     private int currentHealth;
 
@@ -20,14 +20,12 @@ public class HealthController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("A"))
+        if (collision.gameObject.CompareTag("alyuvar"))
         {
-            // A objesine çarparsa can kazan
             ChangeHealth(10);
         }
-        else if (collision.gameObject.CompareTag("B"))
+        else if (collision.gameObject.CompareTag("corona"))
         {
-            // B objesine çarparsa can kaybet
             ChangeHealth(-10);
         }
     }
