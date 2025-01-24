@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7832669418938594279}
   - component: {fileID: 7189824580773020417}
   - component: {fileID: 1424823134352690627}
+  - component: {fileID: -3912161420930262829}
   m_Layer: 0
   m_Name: alyuvar
   m_TagString: Untagged
@@ -83,3 +84,26 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &-3912161420930262829
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1091918853763622738}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 5.477501
+  m_Height: 10.933498
+  m_Direction: 1
+  m_Center: {x: 30.957, y: 45.37375, z: 142.76901}
