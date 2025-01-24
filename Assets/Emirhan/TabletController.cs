@@ -13,22 +13,24 @@ public class TabletController : MonoBehaviour
     
     private void Controller()
     {
+        float horizontal = Input.GetAxisRaw("Horizontal");
+        float vertical = Input.GetAxisRaw("Vertical");
         transform.Translate(Vector3.forward * Time.deltaTime * DirectionSpeed);
-        if (Input.GetKeyDown(KeyCode.W))
+        if (Input.GetKey(KeyCode.W))
         {
-            transform.Translate(Vector3.up * Time.deltaTime * speed);            
+            transform.Translate(Vector3.up * vertical * Time.deltaTime * speed);            
         }
-        else if (Input.GetKeyDown(KeyCode.A))
+        else if (Input.GetKey(KeyCode.A))
         {
-            transform.Translate(Vector3.left * Time.deltaTime * speed); 
+            transform.Translate(Vector3.left * Time.deltaTime * speed * horizontal * -1); 
         }
-        else if (Input.GetKeyDown(KeyCode.D))
+        else if (Input.GetKey(KeyCode.D))
         {
-            transform.Translate(Vector3.right * Time.deltaTime * speed); 
+            transform.Translate(Vector3.right * Time.deltaTime * speed * horizontal); 
         }
-        else if (Input.GetKeyDown(KeyCode.S))
+        else if (Input.GetKey(KeyCode.S))
         {
-            transform.Translate(Vector3.down * Time.deltaTime * speed); 
+            transform.Translate(Vector3.down * vertical  * Time.deltaTime * speed * -1); 
         }
     }
     
