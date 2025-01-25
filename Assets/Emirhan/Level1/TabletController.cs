@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,8 +16,8 @@ public class TabletController : MonoBehaviour
     
     private void Controller()
     {
-        float horizontal = Input.GetAxis("Horizontal");
-        float vertical = Input.GetAxis("Vertical");
+        float horizontal = Input.GetAxisRaw("Horizontal");
+        float vertical = Input.GetAxisRaw("Vertical");
         transform.Translate(Vector3.forward * Time.deltaTime * DirectionSpeed);
         if (Input.GetKey(KeyCode.W))
         {
@@ -27,30 +26,29 @@ public class TabletController : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             transform.Translate(Vector3.left * Time.deltaTime * speed * horizontal * -1);
-            transform.rotation = Quaternion.Euler(0, 180, RotateSpeed * horizontal);
+            transform.Rotate(transform.rotation.x, transform.rotation.y,  RotateSpeed * Time.deltaTime);
         }
         if (Input.GetKey(KeyCode.D))
         {
             transform.Translate(Vector3.right * Time.deltaTime * speed * horizontal);
-            transform.rotation = Quaternion.Euler(0, 180, RotateSpeed * horizontal);
+            transform.Rotate(transform.rotation.x, transform.rotation.y,  RotateSpeed * Time.deltaTime * -1);
         }
         if (Input.GetKey(KeyCode.S))
         {
             transform.Translate(Vector3.down * vertical  * Time.deltaTime * speed * -1); 
         }
     }
-
-
-    private void OnCollisionEnter(Collision other)
+    
+    private void OnCollisionEnter(Collision collision)
     {
-        Debug.Log("sa");
-        if (other.gameObject.CompareTag("alyuvar"))
-        {
-            HealthController.ChangeHealth(-10);
-        }
-        if (other.gameObject.CompareTag("corona"))
+        if (collision.gameObject.CompareTag("alyuvar"))
         {
             HealthController.ChangeHealth(10);
         }
+        else if (collision.gameObject.CompareTag("corona"))
+        {
+            HealthController.ChangeHealth(-10);
+        }
     }
+    
 }
