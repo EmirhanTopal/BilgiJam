@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Eberu/menu.unity
+    guid: 40b7a39a0603c604eb837555496c8243
+  - enabled: 1
+    path: Assets/Emirhan/Level1/Level1Scene/Level1.unity
+    guid: 27633aa36c302c84da5b7eae4add2916
   m_configObjects: {}
