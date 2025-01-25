@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/deterjan.unity
     guid: c2a87c0671d68b346ae71a6a4ccbd057
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 7cb1db94a4e2cd5459e00a4feeee2a17
   m_configObjects: {}
