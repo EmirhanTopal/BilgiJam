@@ -2,6 +2,7 @@
 
 public class BubbleCollision : MonoBehaviour
 {
+    
     void OnParticleCollision(GameObject other)
     {
         // Eğer çarpılan obje "Destructible" tagine sahipse yok et
@@ -9,6 +10,7 @@ public class BubbleCollision : MonoBehaviour
         {
             Debug.Log("saasdas");
             Destroy(other);
+            
         }
     }
 }
