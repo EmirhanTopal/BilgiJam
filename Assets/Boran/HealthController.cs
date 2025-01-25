@@ -15,6 +15,10 @@ public class HealthController : MonoBehaviour
 
     void UpdateHealthBar()
     {
+        if (currentHealth >= 100)
+        {
+            currentHealth = 100;
+        }
         healthBar.value = currentHealth;
     }
     
