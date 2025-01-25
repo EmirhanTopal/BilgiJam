@@ -373,7 +373,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 737261602}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30e00be5947a5d743ba2c20fd251d4b4, type: 3}
+  m_Script: {fileID: 11500000, guid: 0ccd0834eb0bf35408966639c5a8a436, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &779457919
@@ -639,8 +639,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 737261604}
-        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: LoadDeterjanScene
+        m_TargetAssemblyTypeName: SceneChanger, Assembly-CSharp
+        m_MethodName: LoadBoranScene2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
