@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
-  m_Name: PostProcessing Profile
+  m_Name: GameObject Profile
   m_EditorClassIdentifier: 
   settings:
-  - {fileID: 440132966540000928}
---- !u!114 &440132966540000928
+  - {fileID: 7746369801198382188}
+--- !u!114 &7746369801198382188
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -32,10 +32,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1000
+    value: 100
   threshold:
-    overrideState: 1
-    value: 13.9
+    overrideState: 0
+    value: 1
   softKnee:
     overrideState: 0
     value: 0.5
@@ -49,8 +49,8 @@ MonoBehaviour:
     overrideState: 0
     value: 0
   color:
-    overrideState: 1
-    value: {r: 0.3962264, g: 0.20558916, b: 0.20558916, a: 1}
+    overrideState: 0
+    value: {r: 1, g: 1, b: 1, a: 1}
   fastMode:
     overrideState: 0
     value: 0

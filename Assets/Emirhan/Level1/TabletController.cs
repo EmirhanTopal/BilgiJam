@@ -39,9 +39,9 @@ public class TabletController : MonoBehaviour
             transform.Translate(Vector3.down * vertical  * Time.deltaTime * speed * -1); 
         }
     }
-    
-    
-    private void OnTriggerEnter(Collider other)
+
+
+    private void OnCollisionEnter(Collision other)
     {
         Debug.Log("sa");
         if (other.gameObject.CompareTag("alyuvar"))
@@ -53,6 +53,4 @@ public class TabletController : MonoBehaviour
             HealthController.ChangeHealth(10);
         }
     }
-    
-    
 }
