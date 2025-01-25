@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -16,8 +17,8 @@ public class TabletController : MonoBehaviour
     
     private void Controller()
     {
-        float horizontal = Input.GetAxisRaw("Horizontal");
-        float vertical = Input.GetAxisRaw("Vertical");
+        float horizontal = Input.GetAxis("Horizontal");
+        float vertical = Input.GetAxis("Vertical");
         transform.Translate(Vector3.forward * Time.deltaTime * DirectionSpeed);
         if (Input.GetKey(KeyCode.W))
         {
@@ -26,12 +27,12 @@ public class TabletController : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             transform.Translate(Vector3.left * Time.deltaTime * speed * horizontal * -1);
-            transform.Rotate(transform.rotation.x, transform.rotation.y,  RotateSpeed * Time.deltaTime);
+            transform.rotation = Quaternion.Euler(0, 180, RotateSpeed * horizontal);
         }
         if (Input.GetKey(KeyCode.D))
         {
             transform.Translate(Vector3.right * Time.deltaTime * speed * horizontal);
-            transform.Rotate(transform.rotation.x, transform.rotation.y,  RotateSpeed * Time.deltaTime * -1);
+            transform.rotation = Quaternion.Euler(0, 180, RotateSpeed * horizontal);
         }
         if (Input.GetKey(KeyCode.S))
         {
@@ -39,16 +40,19 @@ public class TabletController : MonoBehaviour
         }
     }
     
-    private void OnCollisionEnter(Collision collision)
+    
+    private void OnTriggerEnter(Collider other)
     {
-        if (collision.gameObject.CompareTag("alyuvar"))
-        {
-            HealthController.ChangeHealth(10);
-        }
-        else if (collision.gameObject.CompareTag("corona"))
+        Debug.Log("sa");
+        if (other.gameObject.CompareTag("alyuvar"))
         {
             HealthController.ChangeHealth(-10);
         }
+        if (other.gameObject.CompareTag("corona"))
+        {
+            HealthController.ChangeHealth(10);
+        }
     }
+    
     
 }

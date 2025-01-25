@@ -477,6 +477,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -840,6 +845,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1031,6 +1041,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -1470,6 +1485,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -1896,6 +1916,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2074,6 +2099,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2235,6 +2265,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2408,6 +2443,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2490,6 +2530,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2682,6 +2727,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -2834,6 +2884,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3317,6 +3372,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -3921,6 +3981,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4009,6 +4074,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4397,6 +4467,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -4995,6 +5070,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5103,6 +5183,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -5186,6 +5271,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -5269,6 +5359,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -5422,6 +5517,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5504,6 +5604,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5603,6 +5708,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -5959,6 +6069,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -6054,6 +6169,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -6385,6 +6505,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6645,6 +6770,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7344,6 +7474,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7361,6 +7496,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -7509,6 +7649,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7883,6 +8028,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -8611,6 +8761,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -8763,6 +8918,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8936,6 +9096,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9107,6 +9272,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9384,6 +9554,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -9655,6 +9830,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -10023,6 +10203,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -10666,6 +10851,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -10838,6 +11028,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -11146,6 +11341,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -11496,6 +11696,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -11744,6 +11949,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11826,6 +12036,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11915,6 +12130,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12030,6 +12250,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -12303,6 +12528,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -12545,6 +12775,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12736,6 +12971,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -13231,6 +13471,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13244,6 +13489,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -13396,6 +13646,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14154,6 +14409,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -14307,6 +14567,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14390,6 +14655,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14472,6 +14742,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15126,11 +15401,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13964f0063ac9af4ea3c8f6ba19722be, type: 3}
+--- !u!4 &637785715 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
+    type: 3}
+  m_PrefabInstance: {fileID: 703270010}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &643500089
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15482,6 +15768,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15654,6 +15945,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15737,6 +16033,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15819,6 +16120,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15920,6 +16226,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16188,6 +16499,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16270,6 +16586,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16354,11 +16675,179 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 24d1c69b21e071443a13ab79c072270c, type: 3}
+--- !u!1 &676730375
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 676730379}
+  - component: {fileID: 676730378}
+  - component: {fileID: 676730377}
+  - component: {fileID: 676730376}
+  m_Layer: 0
+  m_Name: CinemachineBrain
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &676730376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676730375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_RenderShadows: 1
+  m_RequiresDepthTextureOption: 2
+  m_RequiresOpaqueTextureOption: 2
+  m_CameraType: 0
+  m_Cameras: []
+  m_RendererIndex: -1
+  m_VolumeLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
+  m_RenderPostProcessing: 0
+  m_Antialiasing: 0
+  m_AntialiasingQuality: 2
+  m_StopNaN: 0
+  m_Dithering: 0
+  m_ClearDepth: 1
+  m_AllowXRRendering: 1
+  m_AllowHDROutput: 1
+  m_UseScreenCoordOverride: 0
+  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
+  m_RequiresDepthTexture: 0
+  m_RequiresColorTexture: 0
+  m_Version: 2
+  m_TaaSettings:
+    quality: 3
+    frameInfluence: 0.1
+    jitterScale: 1
+    mipBias: 0
+    varianceClampScale: 0.9
+    contrastAdaptiveSharpening: 0
+--- !u!20 &676730377
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676730375}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.1
+  far clip plane: 5000
+  field of view: 62.606205
+  orthographic: 0
+  orthographic size: 10
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!114 &676730378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676730375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShowDebugText: 0
+  m_ShowCameraFrustum: 1
+  m_IgnoreTimeScale: 0
+  m_WorldUpOverride: {fileID: 0}
+  m_UpdateMethod: 2
+  m_BlendUpdateMethod: 1
+  m_DefaultBlend:
+    m_Style: 1
+    m_Time: 2
+    m_CustomCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  m_CustomBlends: {fileID: 0}
+  m_CameraCutEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_CameraActivatedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!4 &676730379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676730375}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00014729142, y: 0.99313855, z: -0.11693679, w: 0.0012509389}
+  m_LocalPosition: {x: 2.514151, y: 1029.0468, z: 1508.11}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &677130817
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16906,6 +17395,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16921,33 +17415,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
-      propertyPath: m_LocalScale.x
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
-        type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3
+      value: 3.010704
       objectReference: {fileID: 0}
     - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 982
+      value: 981.97675
       objectReference: {fileID: 0}
     - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1704
+      value: 1311
       objectReference: {fileID: 0}
     - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
@@ -16957,17 +17436,17 @@ PrefabInstance:
     - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: 0.0043088165
       objectReference: {fileID: 0}
     - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 1
+      value: 0.99999076
       objectReference: {fileID: 0}
     - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
@@ -16982,8 +17461,13 @@ PrefabInstance:
     - target: {fileID: 7157505914161030399, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 0.494
       objectReference: {fileID: 0}
+    - target: {fileID: 9013276137782051609, guid: bf8222eab31ddee47bc2a345b6662745,
+        type: 3}
+      propertyPath: HealthController
+      value: 
+      objectReference: {fileID: 1435357084}
     - target: {fileID: 9092218809747221675, guid: bf8222eab31ddee47bc2a345b6662745,
         type: 3}
       propertyPath: m_Name
@@ -17071,6 +17555,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17188,6 +17677,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -17632,6 +18126,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17924,6 +18423,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -18197,6 +18701,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -18445,6 +18954,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18622,6 +19136,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19068,6 +19587,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19245,6 +19769,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19443,6 +19972,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -19538,6 +20072,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -19627,6 +20166,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -19710,6 +20254,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -20130,6 +20679,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20391,6 +20945,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20408,6 +20967,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -20562,6 +21126,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20922,6 +21491,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -21005,6 +21579,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -21252,6 +21831,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21520,6 +22104,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21602,6 +22191,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22423,6 +23017,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -22671,6 +23270,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22753,6 +23357,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23123,6 +23732,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -23770,6 +24384,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -24552,6 +25171,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24634,6 +25258,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24915,6 +25544,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -25277,6 +25911,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -25466,6 +26105,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: alyuvar3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -25645,6 +26289,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -25982,6 +26631,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26064,6 +26718,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26326,6 +26985,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26408,6 +27072,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26521,6 +27190,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -26794,6 +27468,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -27216,6 +27895,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27502,6 +28186,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -27661,6 +28350,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27743,6 +28437,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28569,6 +29268,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: alyuvar3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -29104,6 +29808,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -29282,6 +29991,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -29554,6 +30268,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: alyuvar3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -29702,6 +30421,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29715,6 +30439,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -30046,6 +30775,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30059,6 +30793,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -30337,6 +31076,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30354,6 +31098,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -30592,6 +31341,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30605,6 +31359,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -30859,6 +31618,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30872,6 +31636,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -31054,6 +31823,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -31298,6 +32072,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31381,6 +32160,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31463,6 +32247,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31573,6 +32362,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -31999,6 +32793,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32012,6 +32811,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -32087,6 +32891,78 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b32e652ad3adbe9469e0bcbad4692187, type: 3}
+--- !u!1 &1320507335
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1320507337}
+  - component: {fileID: 1320507336}
+  m_Layer: 0
+  m_Name: Virtual Camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1320507336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1320507335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ExcludedPropertiesInInspector:
+  - m_Script
+  m_LockStageInInspector: 
+  m_StreamingVersion: 20170927
+  m_Priority: 10
+  m_StandbyUpdate: 2
+  m_LookAt: {fileID: 637785715}
+  m_Follow: {fileID: 637785715}
+  m_Lens:
+    FieldOfView: 62.606205
+    OrthographicSize: 10
+    NearClipPlane: 0.1
+    FarClipPlane: 5000
+    Dutch: 0
+    ModeOverride: 0
+    LensShift: {x: 0, y: 0}
+    GateFit: 2
+    FocusDistance: 10
+    m_SensorSize: {x: 1, y: 1}
+  m_Transitions:
+    m_BlendHint: 0
+    m_InheritPosition: 0
+    m_OnCameraLive:
+      m_PersistentCalls:
+        m_Calls: []
+  m_LegacyBlendHint: 0
+  m_ComponentOwner: {fileID: 2133509416}
+--- !u!4 &1320507337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1320507335}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00014729142, y: 0.99313855, z: -0.11693679, w: 0.0012509389}
+  m_LocalPosition: {x: 2.514151, y: 1029.0468, z: 1508.11}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2133509416}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1320863098
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32164,6 +33040,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32248,6 +33129,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32261,6 +33147,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -32445,6 +33336,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -32802,6 +33698,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32821,6 +33722,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -33118,6 +34024,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -33629,6 +34540,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33743,6 +34659,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -33896,6 +34817,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33909,6 +34835,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -33992,6 +34923,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -34259,6 +35195,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -34412,11 +35353,28 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13964f0063ac9af4ea3c8f6ba19722be, type: 3}
+--- !u!114 &1435357084 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2207663887475842612, guid: 0b7041efdbadd9643b51883eb31aea3c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7407556020325314743}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19aaf4a3fea68546b5bac668b4670a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1440439350 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
@@ -34526,6 +35484,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -34773,6 +35736,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35040,6 +36008,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35358,6 +36331,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: alyuvar3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -35505,6 +36483,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35792,6 +36775,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -35875,6 +36863,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -36053,6 +37046,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -36236,6 +37234,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: alyuvar3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -36395,6 +37398,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36657,148 +37665,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 24d1c69b21e071443a13ab79c072270c, type: 3}
---- !u!1 &1542422665
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1542422668}
-  - component: {fileID: 1542422667}
-  - component: {fileID: 1542422666}
-  - component: {fileID: 1542422669}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!81 &1542422666
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1542422665}
-  m_Enabled: 1
---- !u!20 &1542422667
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1542422665}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
-  m_FOVAxisMode: 0
-  m_Iso: 200
-  m_ShutterSpeed: 0.005
-  m_Aperture: 16
-  m_FocusDistance: 10
-  m_FocalLength: 50
-  m_BladeCount: 5
-  m_Curvature: {x: 2, y: 11}
-  m_BarrelClipping: 0.25
-  m_Anamorphism: 0
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
---- !u!4 &1542422668
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1542422665}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0.0020481462, y: -0.9997852, z: -0.020517543, w: -0.0021344048}
-  m_LocalPosition: {x: 7.043106, y: 982.4585, z: 1870.0654}
-  m_LocalScale: {x: 1, y: 1.5252, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -2.351, y: 179.75, z: 0.24}
---- !u!114 &1542422669
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1542422665}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_RenderShadows: 1
-  m_RequiresDepthTextureOption: 2
-  m_RequiresOpaqueTextureOption: 2
-  m_CameraType: 0
-  m_Cameras: []
-  m_RendererIndex: -1
-  m_VolumeLayerMask:
-    serializedVersion: 2
-    m_Bits: 1
-  m_VolumeTrigger: {fileID: 0}
-  m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
-  m_Antialiasing: 0
-  m_AntialiasingQuality: 2
-  m_StopNaN: 0
-  m_Dithering: 0
-  m_ClearDepth: 1
-  m_AllowXRRendering: 1
-  m_AllowHDROutput: 1
-  m_UseScreenCoordOverride: 0
-  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
-  m_RequiresDepthTexture: 0
-  m_RequiresColorTexture: 0
-  m_Version: 2
-  m_TaaSettings:
-    quality: 3
-    frameInfluence: 0.1
-    jitterScale: 1
-    mipBias: 0
-    varianceClampScale: 0.9
-    contrastAdaptiveSharpening: 0
 --- !u!4 &1543590921 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1822981629485473443, guid: 13964f0063ac9af4ea3c8f6ba19722be,
@@ -36972,6 +37848,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37078,6 +37959,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -37227,6 +38113,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37240,6 +38131,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -37577,6 +38473,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37748,6 +38649,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38111,6 +39017,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38193,6 +39104,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38296,6 +39212,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -38449,6 +39370,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38532,6 +39458,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38545,6 +39476,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -38634,6 +39570,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -39376,6 +40317,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -39821,6 +40767,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -40241,6 +41192,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40343,6 +41299,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -40521,6 +41482,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -40870,6 +41836,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40978,6 +41949,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -41321,6 +42297,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -41594,6 +42575,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -41676,6 +42662,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41962,6 +42953,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412277171737933555, guid: 24d1c69b21e071443a13ab79c072270c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -42064,6 +43060,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -42147,6 +43148,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -42236,6 +43242,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -42509,6 +43520,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -42782,6 +43798,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -43233,6 +44254,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -43576,6 +44602,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -43664,6 +44695,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Virus (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -43754,6 +44790,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -43779,6 +44820,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -43868,6 +44914,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -43951,6 +45002,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -44646,6 +45702,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44926,6 +45987,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -45530,6 +46596,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -45619,6 +46690,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -45632,6 +46708,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1880936981}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -45982,6 +47063,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -46539,6 +47625,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: alyuvar3
       objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -46806,6 +47897,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: alyuvar3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -46884,6 +47980,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -47213,6 +48314,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -47574,6 +48680,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: alyuvar3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -47652,6 +48763,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -48084,6 +49200,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -48275,6 +49396,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329407891}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -48447,6 +49573,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -48540,6 +49671,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: alyuvar3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
@@ -48873,6 +50009,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49051,6 +50192,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49223,6 +50369,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49236,6 +50387,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543791965}
     m_Modifications:
+    - target: {fileID: 1010830548305544092, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1420101901971928955, guid: 2903beab30f0d9d4b9405fe114e2cf3d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -49389,6 +50545,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Virus (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 8650703727979580488, guid: 13964f0063ac9af4ea3c8f6ba19722be,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49402,6 +50563,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -49477,6 +50643,103 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b32e652ad3adbe9469e0bcbad4692187, type: 3}
+--- !u!1 &2133509415
+GameObject:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2133509416}
+  - component: {fileID: 2133509419}
+  - component: {fileID: 2133509418}
+  - component: {fileID: 2133509417}
+  m_Layer: 0
+  m_Name: cm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2133509416
+Transform:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2133509415}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1320507337}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2133509417
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2133509415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd6043bde05a7fc4cba197d06915c1e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Damping: {x: 0.1, y: 0.5, z: 0.3}
+  ShoulderOffset: {x: 0.5, y: 46.67, z: -195.11}
+  VerticalArmLength: 0.4
+  CameraSide: 1
+  CameraDistance: 2
+  CameraCollisionFilter:
+    serializedVersion: 2
+    m_Bits: 0
+  IgnoreTag: 
+  CameraRadius: 0.2
+  DampingIntoCollision: 0
+  DampingFromCollision: 2
+--- !u!114 &2133509418
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2133509415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4044717213e31446939f7bd49c896ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TrackedObjectOffset: {x: 0, y: 0, z: 0}
+  m_LookaheadTime: 0
+  m_LookaheadSmoothing: 0
+  m_LookaheadIgnoreY: 0
+  m_HorizontalDamping: 0.5
+  m_VerticalDamping: 0.5
+  m_ScreenX: 0.5
+  m_ScreenY: 0.5
+  m_DeadZoneWidth: 0
+  m_DeadZoneHeight: 0
+  m_SoftZoneWidth: 0.8
+  m_SoftZoneHeight: 0.8
+  m_BiasX: 0
+  m_BiasY: 0
+  m_CenterOnActivate: 1
+--- !u!114 &2133509419
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2133509415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2134143250
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49579,6 +50842,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: alyuvar3 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1805254867812439993, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5957518359436304965, guid: f3b6be404ed1b2f45830d0568f9d2aa2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -49657,6 +50925,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 318837075}
     m_Modifications:
+    - target: {fileID: 148735123464861864, guid: b32e652ad3adbe9469e0bcbad4692187,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3955425198986003295, guid: b32e652ad3adbe9469e0bcbad4692187,
         type: 3}
       propertyPath: m_Name
@@ -49918,6 +51191,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1212553557073087225, guid: 0b7041efdbadd9643b51883eb31aea3c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2829
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212553557073087225, guid: 0b7041efdbadd9643b51883eb31aea3c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.0629
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212553557073087225, guid: 0b7041efdbadd9643b51883eb31aea3c,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -715
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212553557073087225, guid: 0b7041efdbadd9643b51883eb31aea3c,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 489
+      objectReference: {fileID: 0}
     - target: {fileID: 4396403275276479280, guid: 0b7041efdbadd9643b51883eb31aea3c,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -50042,7 +51335,6 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 1542422668}
   - {fileID: 465338828}
   - {fileID: 7407556020325314743}
   - {fileID: 2010894413}
@@ -50061,3 +51353,5 @@ SceneRoots:
   - {fileID: 257616421}
   - {fileID: 1015667168}
   - {fileID: 1308436270}
+  - {fileID: 676730379}
+  - {fileID: 1320507337}
