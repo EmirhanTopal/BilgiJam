@@ -6,6 +6,7 @@ TagManager:
   tags:
   - alyuvar
   - corona
+  - Destructible
   layers:
   - Default
   - TransparentFX
