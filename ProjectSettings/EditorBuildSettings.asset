@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/video2.unity
     guid: 84fd1bc61bc77f8488b5f29dd08885ef
+  - enabled: 1
+    path: Assets/Scenes/sonsahne.unity
+    guid: 73e727f982a06bb48a7bb22ad6e4e556
   m_configObjects: {}
