@@ -45,11 +45,13 @@ public class TabletController : MonoBehaviour
     {
         Debug.Log("sa");
         if (other.gameObject.CompareTag("alyuvar"))
-        {
+        { 
+            Destroy(other.gameObject);
             HealthController.ChangeHealth(-10);
         }
         if (other.gameObject.CompareTag("corona"))
         {
+            Destroy(other.gameObject);
             HealthController.ChangeHealth(10);
         }
     }
