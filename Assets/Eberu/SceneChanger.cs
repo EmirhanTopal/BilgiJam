@@ -5,7 +5,7 @@ public class SceneChanger : MonoBehaviour
 {
     public void LoadBoranScene()
     {
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("video1");
     }
     public void LoadBoranScene2()
     {
